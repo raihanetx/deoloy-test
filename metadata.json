@@ -1,0 +1,5 @@
+{
+  "name": "DigiGrove - Digital Products Marketplace",
+  "description": "A modern, multi-page e-commerce website built with React and Tailwind CSS, featuring AI-generated product descriptions from Gemini. Users can browse products, add them to a cart, and simulate a checkout process.",
+  "requestFramePermissions": []
+}
